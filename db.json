@@ -1,34 +1,36 @@
 {
-  "events": [
-    {
-      "id": 123,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day",
-      "description": "Find your new feline friend at this event.",
-      "location": "Meow Town",
-      "date": "January 28, 2022",
-      "time": "12:00",
-      "organizer": "Kat Laydee"
-    },
-    {
-      "id": 456,
-      "category": "food",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
-      "location": "Flora City",
-      "date": "March 14, 2022",
-      "time": "10:00",
-      "organizer": "Fern Pollin"
-    },
-    {
-      "id": 789,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
-      "time": "11:00",
-      "organizer": "Carey Wales"
-    }
-  ]
+  "cardList": [
+        {
+          "id": "card0001",
+          "title": "기구 필라테스 지도자 과정",
+          "provider": "민트리온 필라테스",
+          "price": "300000",
+          "endDate": "12월31일"
+          "startDate": "2월 1일"
+        },
+        {
+          "id": "card0002",
+          "title": "기구 필라테스 지도자 과정",
+          "provider": "민트리온 필라테스",
+          "price": "300000",
+          "endDate": "12월31일"
+          "startDate": "2월 1일"
+        },
+        {
+          "id": "card0003",
+          "title": "기구 필라테스 지도자 과정",
+          "provider": "민트리온 필라테스",
+          "price": "300000",
+          "endDate": "12월31일"
+          "startDate": "2월 1일"
+        },
+        {
+          "id": "card0004",
+          "title": "기구 필라테스 지도자 과정",
+          "provider": "민트리온 필라테스",
+          "price": "300000",
+          "endDate": "12월31일"
+          "startDate": "2월 1일"
+        }
+    ]
 }

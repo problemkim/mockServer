@@ -1,36 +1,88 @@
 {
-  "cardList": [
+  "educations": [
         {
-          "id": "0001",
+          "id": "EDUPILAA0001",
           "title": "기구 필라테스 지도자 과정",
           "provider": "민트리온 필라테스",
+          "location" : {
+            "city" : "서울"
+            "province" : "마포구"
+          },
+          "category" : "필라테스",
           "price": "300000",
-          "endDate": "12월31일",
-          "startDate": "2월 1일"
+          "schedule" : {
+            "eduStartDate": "2021년 2월 1일"
+            "eduEndDate": "2021년 4월31일",
+            "registerStartDate": "2020년 12월 31일"
+            "registerEndDate": "2021년 1월 31일"
+          },
+          "times" : "16회",
+          "isCertified" : "true",
+          "time": "오전"
+          "detail" : "●민트리온 필라테스 지도자과정● 디테일한 내용들인데 json엔 어떻게 line 넘기기를 할 수 잇는지 참.."
         },
         {
-          "id": "0002",
-          "title": "기구 필라테스 지도자 과정",
-          "provider": "민트리온 필라테스",
-          "price": "300000",
-          "endDate": "12월31일",
-          "startDate": "2월 1일"
+          "id": "EDUFITNA0001",
+          "title": "파워리프팅 지도자 과정",
+          "provider": "IPF",
+          "location" : {
+            "city" : "고양시"
+            "province" : "행신"
+          },
+          "category" : "파워리프팅",
+          "price": "700000",
+          "schedule" : {
+            "eduStartDate": "2021년 2월 1일"
+            "eduEndDate": "2021년 4월31일",
+            "registerStartDate": "2020년 12월 31일"
+            "registerEndDate": "2021년 1월 31일"
+          },
+          "times" : "16회",
+          "isCertified" : "true",
+          "time": "오전"
+          "detail" : "●파워리프팅● 디테일한 내용들인데 json엔 어떻게 line 넘기기를 할 수 잇는지 참.."
         },
         {
-          "id": "0003",
-          "title": "기구 필라테스 지도자 과정",
-          "provider": "민트리온 필라테스",
+          "id": "EDUYOGA0001",
+          "title": "요가 호흡",
+          "provider": "모던 요가",
+          "location" : {
+            "city" : "부산시"
+            "province" : "해운대구"
+          },
+          "category" : "요가",
           "price": "300000",
-          "endDate": "12월31일",
-          "startDate": "2월 1일"
+          "schedule" : {
+            "eduStartDate": "2021년 2월 1일"
+            "eduEndDate": "2021년 4월31일",
+            "registerStartDate": "2020년 12월 31일"
+            "registerEndDate": "2021년 1월 31일"
+          },
+          "times" : "16회",
+          "isCertified" : "true",
+          "time": "오전"
+          "detail" : "●요가 호흡과정● 디테일한 내용들인데 json엔 어떻게 line 넘기기를 할 수 잇는지 참.."
         },
         {
-          "id": "0004",
-          "title": "기구 필라테스 지도자 과정",
-          "provider": "민트리온 필라테스",
-          "price": "300000",
-          "endDate": "12월31일",
-          "startDate": "2월 1일"
-        }
+          "id": "EDUREHAA0001",
+          "title": "골반 불균형과 통증",
+          "provider": "재활교정학회",
+          "location" : {
+            "city" : "서울"
+            "province" : "강남구"
+          },
+          "category" : "재활/교정",
+          "price": "1000000",
+          "schedule" : {
+            "eduStartDate": "2021년 2월 1일"
+            "eduEndDate": "2021년 4월31일",
+            "registerStartDate": "2020년 12월 31일"
+            "registerEndDate": "2021년 1월 31일"
+          },
+          "times" : "16회",
+          "isCertified" : "false",
+          "time": "오전"
+          "detail" : "●골반 불균형 교정● 디테일한 내용들인데 json엔 어떻게 line 넘기기를 할 수 잇는지 참.."
+        },
     ]
 }

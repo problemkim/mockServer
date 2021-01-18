@@ -2,7 +2,7 @@
   "educations": [
         {
           "title": "기구 필라테스 지도자 과정",
-          "id": "EDUPILAA0001",
+          "aid": "EDUPILAA0001",
           "provider": "민트리온 필라테스",
           "location" : {
             "city" : "서울",

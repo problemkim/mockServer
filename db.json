@@ -29,7 +29,7 @@
             "city" : "고양시",
             "province" : "행신"
           },
-          "category" : "파워리프팅",
+          "category" : "",
           "price": "700000",
           "schedule" : {
             "eduStartDate": "2021년 2월 1일",
@@ -155,7 +155,7 @@
             "city" : "서울",
             "province" : "강남구"
           },
-          "category" : "",
+          "category" : "필라테스",
           "price": "700000",
           "schedule" : {
             "eduStartDate": "2021년 2월 1일",

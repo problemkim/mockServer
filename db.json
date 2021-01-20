@@ -83,6 +83,90 @@
           "isCertified" : "false",
           "time": "오전",
           "detail" : "●골반 불균형 교정● 디테일한 내용들인데 json엔 어떻게 line 넘기기를 할 수 잇는지 참.."
+        },
+        {
+          "id": "EDUREHAA0001",
+          "title": "골반 불균형과 통증",
+          "provider": "재활교정학회",
+          "location" : {
+            "city" : "서울",
+            "province" : "강남구"
+          },
+          "category" : "기초/공통",
+          "price": "1000000",
+          "schedule" : {
+            "eduStartDate": "2021년 2월 1일",
+            "eduEndDate": "2021년 4월31일",
+            "registerStartDate": "2020년 12월 31일",
+            "registerEndDate": "2021년 1월 31일"
+          },
+          "times" : "16회",
+          "isCertified" : "false",
+          "time": "오전",
+          "detail" : "●골반 불균형 교정● 디테일한 내용들인데 json엔 어떻게 line 넘기기를 할 수 잇는지 참.."
+        },
+        {
+          "id": "EDUREHAA0002",
+          "title": "어깨 불균형 통증",
+          "provider": "재활교정학회",
+          "location" : {
+            "city" : "서울",
+            "province" : "강남구"
+          },
+          "category" : "기초/공통",
+          "price": "1200000",
+          "schedule" : {
+            "eduStartDate": "2021년 2월 1일",
+            "eduEndDate": "2021년 4월31일",
+            "registerStartDate": "2020년 12월 31일",
+            "registerEndDate": "2021년 1월 31일"
+          },
+          "times" : "16회",
+          "isCertified" : "false",
+          "time": "오전",
+          "detail" : "●골반 불균형 교정● 디테일한 내용들인데 json엔 어떻게 line 넘기기를 할 수 잇는지 참.."
+        },
+        {
+          "id": "EDUFITNA0002",
+          "title": "어깨뽕 지리게 만들기",
+          "provider": "IFBB",
+          "location" : {
+            "city" : "서울",
+            "province" : "강남구"
+          },
+          "category" : "피트니스",
+          "price": "1000000",
+          "schedule" : {
+            "eduStartDate": "2021년 2월 1일",
+            "eduEndDate": "2021년 4월31일",
+            "registerStartDate": "2020년 12월 31일",
+            "registerEndDate": "2021년 1월 31일"
+          },
+          "times" : "16회",
+          "isCertified" : "false",
+          "time": "오후",
+          "detail" : "●골반 불균형 교정● 디테일한 내용들인데 json엔 어떻게 line 넘기기를 할 수 잇는지 참.."
+        },
+        {
+          "id": "EDUFILAA0002",
+          "title": "리포머 시퀀스",
+          "provider": "이파마스터",
+          "location" : {
+            "city" : "서울",
+            "province" : "강남구"
+          },
+          "category" : "",
+          "price": "700000",
+          "schedule" : {
+            "eduStartDate": "2021년 2월 1일",
+            "eduEndDate": "2021년 4월31일",
+            "registerStartDate": "2020년 12월 31일",
+            "registerEndDate": "2021년 1월 31일"
+          },
+          "times" : "16회",
+          "isCertified" : "false",
+          "time": "오전",
+          "detail" : "●골반 불균형 교정● 디테일한 내용들인데 json엔 어떻게 line 넘기기를 할 수 잇는지 참.."
         }
     ],
   

@@ -203,7 +203,7 @@
   "filters": [
         {
           "id": "location",
-          "name": "지역",
+          "filterName": "지역",
           "conditions" : [
             "온라인",
             "서울",
@@ -218,7 +218,7 @@
         },
         {
           "id": "time",
-          "name": "교육 시간",
+          "filterName": "교육 시간",
           "conditions" : [
             "평일 오전",
             "평일 오후",
@@ -229,7 +229,7 @@
         },
         {
           "id": "isCertified",
-          "name": "자격증",
+          "filterName": "자격증",
           "conditions" : [
             "국제 자격증",
             "공인 자격증",
@@ -239,7 +239,7 @@
         },
         {
           "id": "toWhom",
-          "name": "대상",
+          "filterName": "대상",
           "conditions" : [
             "지도자",
             "일반인"

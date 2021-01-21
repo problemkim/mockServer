@@ -202,18 +202,7 @@
   
   "filters": [
         {
-          "id": "FILTER0001",
-          "name": "교육 구분",
-          "conditions" : [
-            "지도자 교육",
-            "소도구",
-            "기구",
-            "맨몸",
-            "기타"
-          ]
-        },
-        {
-          "id": "FILTER0002",
+          "id": "location",
           "name": "지역",
           "conditions" : [
             "온라인",
@@ -228,7 +217,7 @@
           ]
         },
         {
-          "id": "FILTER0003",
+          "id": "time",
           "name": "교육 시간",
           "conditions" : [
             "평일 오전",
@@ -239,7 +228,7 @@
           ]
         },
         {
-          "id": "FILTER0004",
+          "id": "isCertified",
           "name": "자격증",
           "conditions" : [
             "국제 자격증",

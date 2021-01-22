@@ -4,7 +4,7 @@
           "id": "EDUPILAA0001",
           "title": "기구 필라테스 지도자 과정",
           "provider": "민트리온 필라테스",
-          "location" : "서울"
+          "location" : "서울",
           "category" : "필라테스",
           "price": "300000",
           "schedule" : {
@@ -23,7 +23,7 @@
           "id": "EDUFITNA0001",
           "title": "파워리프팅 지도자 과정",
           "provider": "IPF",
-          "location" : "대구"
+          "location" : "대구",
           "category" : "피트니스",
           "price": "700000",
           "schedule" : {
@@ -42,7 +42,7 @@
           "id": "EDUFITNA0002",
           "title": "SFB 바벨",
           "provider": "IPF",
-          "location" : "부산"
+          "location" : "부산",
           "category" : "피트니스",
           "price": "700000",
           "schedule" : {
@@ -61,7 +61,7 @@
           "id": "EDUYOGA0001",
           "title": "요가 호흡",
           "provider": "모던 요가",
-          "location" : "울산"
+          "location" : "울산",
           "category" : "요가",
           "price": "300000",
           "schedule" : {
@@ -80,7 +80,7 @@
           "id": "EDUREHAA0001",
           "title": "골반 불균형과 통증",
           "provider": "재활교정학회",
-          "location" : "서울"
+          "location" : "서울",
           "category" : "공통",
           "price": "1000000",
           "schedule" : {
@@ -99,7 +99,7 @@
           "id": "EDUREHAA0002",
           "title": "목과 통증",
           "provider": "재활교정학회",
-          "location" : "용인"
+          "location" : "용인",
           "category" : "공통",
           "price": "400000",
           "schedule" : {
@@ -118,7 +118,7 @@
           "id": "EDUREHAA0003",
           "title": "어깨 불균형 통증",
           "provider": "재활교정학회",
-          "location" : "병점"
+          "location" : "병점",
           "category" : "공통",
           "price": "1200000",
           "schedule" : {
@@ -137,7 +137,7 @@
           "id": "EDUFITNA0003",
           "title": "어깨뽕 지리게 만들기",
           "provider": "IFBB",
-          "location" : "수원"
+          "location" : "수원",
           "category" : "피트니스",
           "price": "1000000",
           "schedule" : {
@@ -156,7 +156,7 @@
           "id": "EDUFILAA0002",
           "title": "리포머 시퀀스",
           "provider": "이파마스터",
-          "location" : "온라인"
+          "location" : "온라인",
           "category" : "필라테스",
           "price": "700000",
           "schedule" : {

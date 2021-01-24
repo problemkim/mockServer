@@ -178,44 +178,124 @@
           "id": "location",
           "filterName": "지역",
           "conditions" : [
-            "온라인",
-            "서울",
-            "경기/인천",
-            "대전/세종/충청",
-            "대구/경북",
-            "부산/울산/경남",
-            "광주/전라",
-            "강원",
-            "제주"
+            {
+              "condition": "서울",
+              "isSelected": false
+            },
+            {
+              "condition": "경기/인천",
+              "isSelected": false
+            },
+            {
+              "condition": "대전/세종/충청",
+              "isSelected": false
+            },
+            {
+              "condition": "대구/경북",
+              "isSelected": false
+            },
+            {
+              "condition": "부산/울산/경남",
+              "isSelected": false
+            },
+            {
+              "condition": "광주/전라",
+              "isSelected": false
+            },
+            {
+              "condition": "강원",
+              "isSelected": false
+            },
+            {
+              "condition": "제주",
+              "isSelected": false
+            }
           ]
         },
         {
           "id": "time",
           "filterName": "교육 시간",
           "conditions" : [
-            "평일 오전",
-            "평일 오후",
-            "주말 오전",
-            "주말 오후",
-            "원데이"
+            {
+              "condition": "평일 오전",
+              "isSelected": false
+            },
+            {
+              "condition": "평일 오후",
+              "isSelected": false
+            },
+            {
+              "condition": "주말 오전",
+              "isSelected": false
+            },
+            {
+              "condition": "주말 오후",
+              "isSelected": false
+            },
+            {
+              "condition": "원데이",
+              "isSelected": false
+            }
           ]
         },
         {
           "id": "isCertified",
           "filterName": "자격증",
           "conditions" : [
-            "국제 자격증",
-            "공인 자격증",
-            "민간 자격증",
-            "없음"            
+            {
+              "condition": "국제 자격증",
+              "isSelected": false
+            },
+            {
+              "condition": "공인 자격증",
+              "isSelected": false
+            },
+            {
+              "condition": "민간 자격증",
+              "isSelected": false
+            },
+            {
+              "condition": "없음",
+              "isSelected": false
+            }
           ]
         },
         {
           "id": "toWhom",
           "filterName": "대상",
           "conditions" : [
-            "지도자",
-            "일반인"
+            {
+              "condition": "서울",
+              "isSelected": false
+            },
+            {
+              "condition": "경기/인천",
+              "isSelected": false
+            },
+            {
+              "condition": "대전/세종/충청",
+              "isSelected": false
+            },
+            {
+              "condition": "대구/경북",
+              "isSelected": false
+            },
+            {
+              "condition": "부산/울산/경남",
+              "isSelected": false
+            },
+            {
+              "condition": "광주/전라",
+              "isSelected": false
+            },
+            {
+              "condition": "지도자",
+              "isSelected": false
+            },
+            {
+              "condition": "일반인",
+              "isSelected": false
+            }
           ]
         }
     ]

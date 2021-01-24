@@ -180,35 +180,35 @@
           "conditions" : [
             {
               "condition": "서울",
-              "isSelected": false
+              "isSelected": "false"
             },
             {
               "condition": "경기/인천",
-              "isSelected": false
+              "isSelected": "false"
             },
             {
               "condition": "대전/세종/충청",
-              "isSelected": false
+              "isSelected": "false"
             },
             {
               "condition": "대구/경북",
-              "isSelected": false
+              "isSelected": "false"
             },
             {
               "condition": "부산/울산/경남",
-              "isSelected": false
+              "isSelected": "false"
             },
             {
               "condition": "광주/전라",
-              "isSelected": false
+              "isSelected": "false"
             },
             {
               "condition": "강원",
-              "isSelected": false
+              "isSelected": "false"
             },
             {
               "condition": "제주",
-              "isSelected": false
+              "isSelected": "false"
             }
           ]
         },
@@ -218,23 +218,23 @@
           "conditions" : [
             {
               "condition": "평일 오전",
-              "isSelected": false
+              "isSelected": "false"
             },
             {
               "condition": "평일 오후",
-              "isSelected": false
+              "isSelected": "false"
             },
             {
               "condition": "주말 오전",
-              "isSelected": false
+              "isSelected": "false"
             },
             {
               "condition": "주말 오후",
-              "isSelected": false
+              "isSelected": "false"
             },
             {
               "condition": "원데이",
-              "isSelected": false
+              "isSelected": "false"
             }
           ]
         },
@@ -244,19 +244,19 @@
           "conditions" : [
             {
               "condition": "국제 자격증",
-              "isSelected": false
+              "isSelected": "false"
             },
             {
               "condition": "공인 자격증",
-              "isSelected": false
+              "isSelected": "false"
             },
             {
               "condition": "민간 자격증",
-              "isSelected": false
+              "isSelected": "false"
             },
             {
               "condition": "없음",
-              "isSelected": false
+              "isSelected": "false"
             }
           ]
         },
@@ -265,36 +265,12 @@
           "filterName": "대상",
           "conditions" : [
             {
-              "condition": "서울",
-              "isSelected": false
-            },
-            {
-              "condition": "경기/인천",
-              "isSelected": false
-            },
-            {
-              "condition": "대전/세종/충청",
-              "isSelected": false
-            },
-            {
-              "condition": "대구/경북",
-              "isSelected": false
-            },
-            {
-              "condition": "부산/울산/경남",
-              "isSelected": false
-            },
-            {
-              "condition": "광주/전라",
-              "isSelected": false
-            },
-            {
               "condition": "지도자",
-              "isSelected": false
+              "isSelected": "false"
             },
             {
               "condition": "일반인",
-              "isSelected": false
+              "isSelected": "false"
             }
           ]
         }

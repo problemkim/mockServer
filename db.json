@@ -274,5 +274,32 @@
             }
           ]
         }
+    ],
+  
+  "communities": [
+        {
+          "content": "이게 내용이다 내용이 들어갈 자리란말이다",
+          "writter": "user.id로 하는게 좋을듯",
+          "like": "4",
+          "share": "1"
+        },
+        {
+          "content": "이게 내용이다 내용이 들어갈 자리란말이다",
+          "writter": "user.id로 하는게 좋을듯",
+          "like": "2",
+          "share": "1"
+        },
+        {
+          "content": "이게 내용이다 내용이 들어갈 자리란말이다",
+          "writter": "user.id로 하는게 좋을듯",
+          "like": "40",
+          "share": "12"
+        },
+        {
+          "content": "이게 내용이다 내용이 들어갈 자리란말이다",
+          "writter": "user.id로 하는게 좋을듯",
+          "like": "100",
+          "share": "12"
+        },
     ]
 }

@@ -1,224 +1,131 @@
 {
   "educations": [
         {
-          "id": "EDUPILAA0001",
+          "id": "F03ED2",
           "title": "기구 필라테스 지도자 과정",
-          "provider": "민트리온 필라테스",
-          "location" : "경기/ 인천",
+          "provider": {
+            "name": "민트리온 필라테스",
+            "email": "email@email.com",
+            "tel": "010-0101-2121",
+            "web": "www.webi.com"
+          },          
+          "location" : ["경기/인천"],
           "category" : "필라테스",
-          "price": "300000",
-          "schedule" : {
-            "eduStartDate": "2021년 2월 1일",
-            "eduEndDate": "2021년 4월31일",
-            "registerStartDate": "2020년 12월 31일",
-            "registerEndDate": "2021년 1월 31일"
+          "duration" : "8",
+          "times" : "16",
+          "time": ["평일 오전", "평일 오후"],
+          "apply": {
+            "type": ["email", "tel"],
+            "email": "email@email.com",
+            "tel": "010-0101-2121",
+            "web": "www.webi.com"
           },
-          "times" : "16회",
-          "isCertified" : "true",
-          "time": "오전",
-          "toWhom" : ["일반인", "지도자"],
+          "price": "300000",
+          "certification" : "국제자격증",          
+          "student" : ["일반인", "지도자"],
           "detail" : "●민트리온 필라테스 지도자과정● 디테일한 내용들인데 json엔 어떻게 line 넘기기를 할 수 잇는지 참.."
         },
         {
-          "id": "EDUFITNA0002",
-          "title": "SFB 바벨",
-          "provider": "IPF",
-          "location" : "부산",
+          "id": "A01EA1",
+          "title": "파워리프팅 지도자 과정",
+          "provider": {
+            "name": "파워존",
+            "email": "email@email.com",
+            "tel": "010-0101-2121",
+            "web": "www.webi.com"
+          },          
+          "location" : ["서울", "온라인"],
           "category" : "피트니스",
+          "duration" : "8",
+          "times" : "16",
+          "time": ["주말 오전", "주말 오후"],
+          "apply": {
+            "type": ["email", "tel"],
+            "email": "email@email.com",
+            "tel": "010-0101-2121",
+            "web": "www.webi.com"
+          },
           "price": "700000",
-          "schedule" : {
-            "eduStartDate": "2021년 2월 1일",
-            "eduEndDate": "2021년 4월31일",
-            "registerStartDate": "2020년 12월 31일",
-            "registerEndDate": "2021년 1월 31일"
-          },
-          "times" : "16회",
-          "isCertified" : "true",
-          "time": "오전",
-          "toWhom" : ["일반인", "지도자"],
-          "detail" : "●파워리프팅● 디테일한 내용들인데 json엔 어떻게 line 넘기기를 할 수 잇는지 참.."
+          "certification" : "국제자격증",          
+          "student" : ["일반인", "지도자"],
+          "detail" : "파워리프팅 배워서 허리를 지킵시다 여러분"
         },
         {
-          "id": "EDUREHAA0001",
-          "title": "골반 불균형과 통증",
-          "provider": "재활교정학회",
-          "location" : "서울",
-          "category" : "공통",
+          "id": "B02DA3",
+          "title": "골반통증",
+          "provider": {
+            "name": "통증의학회",
+            "email": "email@email.com",
+            "tel": "010-0101-2121",
+            "web": "www.webi.com"
+          },          
+          "location" : ["온라인"],
+          "category" : "기초/공통",
+          "duration" : "8",
+          "times" : "16",
+          "time": ["평일 오전", "평일 오후"],
+          "apply": {
+            "type": ["email", "tel"],
+            "email": "email@email.com",
+            "tel": "010-0101-2121",
+            "web": "www.webi.com"
+          },
           "price": "1000000",
-          "schedule" : {
-            "eduStartDate": "2021년 2월 1일",
-            "eduEndDate": "2021년 4월31일",
-            "registerStartDate": "2020년 12월 31일",
-            "registerEndDate": "2021년 1월 31일"
-          },
-          "times" : "16회",
-          "isCertified" : "false",
-          "time": "오전",
-          "toWhom" : ["지도자"],
-          "detail" : "●골반 불균형 교정● 디테일한 내용들인데 json엔 어떻게 line 넘기기를 할 수 잇는지 참.."
+          "certification" : "민간자격증",          
+          "student" : ["지도자"],
+          "detail" : "골반통증 잡는 ..."
         },
         {
-          "id": "EDUREHAA0002",
-          "title": "목과 통증",
-          "provider": "재활교정학회",
-          "location" : "용인",
-          "category" : "공통",
-          "price": "400000",
-          "schedule" : {
-            "eduStartDate": "2021년 2월 1일",
-            "eduEndDate": "2021년 4월31일",
-            "registerStartDate": "2020년 12월 31일",
-            "registerEndDate": "2021년 1월 31일"
+          "id": "FA1ED1",
+          "title": "국제 체력코치",
+          "provider": {
+            "name": "한국체육대학교",
+            "email": "email@email.com",
+            "tel": "010-0101-2121",
+            "web": "www.webi.com"
+          },          
+          "location" : ["서울"],
+          "category" : "기초/공통",
+          "duration" : "8",
+          "times" : "16",
+          "time": ["평일 오전", "평일 오후", "주말 오전", "주말 오후"],
+          "apply": {
+            "type": ["email", "tel"],
+            "email": "email@email.com",
+            "tel": "010-0101-2121",
+            "web": "www.webi.com"
           },
-          "times" : "16회",
-          "isCertified" : "false",
-          "time": "오전",
-          "toWhom" : ["지도자"],
-          "detail" : "●골반 불균형 교정● 디테일한 내용들인데 json엔 어떻게 line 넘기기를 할 수 잇는지 참.."
+          "price": "300000",
+          "certification" : "국제자격증",          
+          "student" : ["일반인", "지도자"],
+          "detail" : "체력코치 양성소"
         },
         {
-          "id": "EDUFITNA0003",
-          "title": "어깨뽕 지리게 만들기",
-          "provider": "IFBB",
-          "location" : "수원",
-          "category" : "피트니스",
-          "price": "1000000",
-          "schedule" : {
-            "eduStartDate": "2021년 2월 1일",
-            "eduEndDate": "2021년 4월31일",
-            "registerStartDate": "2020년 12월 31일",
-            "registerEndDate": "2021년 1월 31일"
-          },
-          "times" : "16회",
-          "isCertified" : "false",
-          "time": "오후",
-          "toWhom" : ["일반인", "지도자"],
-          "detail" : "●골반 불균형 교정● 디테일한 내용들인데 json엔 어떻게 line 넘기기를 할 수 잇는지 참.."
-        },
-        {
-          "id": "EDUFILAA0002",
-          "title": "리포머 시퀀스",
-          "provider": "이파마스터",
-          "location" : "온라인",
+          "id": "E01EA1",
+          "title": "리포머 지도자 과정",
+          "provider": {
+            "name": "진 필라테스",
+            "email": "email@email.com",
+            "tel": "010-0101-2121",
+            "web": "www.webi.com"
+          },          
+          "location" : ["온라인"],
           "category" : "필라테스",
-          "price": "700000",
-          "schedule" : {
-            "eduStartDate": "2021년 2월 1일",
-            "eduEndDate": "2021년 4월31일",
-            "registerStartDate": "2020년 12월 31일",
-            "registerEndDate": "2021년 1월 31일"
+          "duration" : "8",
+          "times" : "16",
+          "time": ["평일 오전", "평일 오후"],
+          "apply": {
+            "type": ["email", "tel"],
+            "email": "email@email.com",
+            "tel": "010-0101-2121",
+            "web": "www.webi.com"
           },
-          "times" : "16회",
-          "isCertified" : "false",
-          "time": "오전",
-          "toWhom" : ["지도자"],
-          "detail" : "●골반 불균형 교정● 디테일한 내용들인데 json엔 어떻게 line 넘기기를 할 수 잇는지 참.."
+          "price": "300000",
+          "certification" : "민간자격증",          
+          "student" : ["지도자"],
+          "detail" : "리포머 시퀀스 관련"
         }
     ],
-  
-  "filters": [
-        {
-          "id": "location",
-          "filterName": "지역",
-          "conditions" : [
-            {
-              "condition": "서울",
-              "isSelected": "false"
-            },
-            {
-              "condition": "경기/ 인천",
-              "isSelected": "false"
-            },
-            {
-              "condition": "대전/세종/충청",
-              "isSelected": "false"
-            },
-            {
-              "condition": "대구/경북",
-              "isSelected": "false"
-            },
-            {
-              "condition": "부산/울산/경남",
-              "isSelected": "false"
-            },
-            {
-              "condition": "광주/전라",
-              "isSelected": "false"
-            },
-            {
-              "condition": "강원",
-              "isSelected": "false"
-            },
-            {
-              "condition": "제주",
-              "isSelected": "false"
-            }
-          ]
-        },
-        {
-          "id": "time",
-          "filterName": "교육 시간",
-          "conditions" : [
-            {
-              "condition": "평일 오전",
-              "isSelected": "false"
-            },
-            {
-              "condition": "평일 오후",
-              "isSelected": "false"
-            },
-            {
-              "condition": "주말 오전",
-              "isSelected": "false"
-            },
-            {
-              "condition": "주말 오후",
-              "isSelected": "false"
-            },
-            {
-              "condition": "원데이",
-              "isSelected": "false"
-            }
-          ]
-        },
-        {
-          "id": "isCertified",
-          "filterName": "자격증",
-          "conditions" : [
-            {
-              "condition": "국제 자격증",
-              "isSelected": "false"
-            },
-            {
-              "condition": "공인 자격증",
-              "isSelected": "false"
-            },
-            {
-              "condition": "민간 자격증",
-              "isSelected": "false"
-            },
-            {
-              "condition": "없음",
-              "isSelected": "false"
-            }
-          ]
-        },
-        {
-          "id": "toWhom",
-          "filterName": "대상",
-          "conditions" : [
-            {
-              "condition": "지도자",
-              "isSelected": "false"
-            },
-            {
-              "condition": "일반인",
-              "isSelected": "false"
-            }
-          ]
-        }
-    ],
-  
   "communities": [
         {
           "id": "COM0001",
